@@ -85,3 +85,5 @@ Epoch 20/30
 Epoch 00020: saving model to model/20-0.03-0.32.hdf5
 Epoch 00020: early stopping
 
+
+ ![image](https://github.com/Roy-Tsai-myaccount/DeepLearningAssignment/blob/master/MidtermTest/TrainingRecordPicture/0510_1.PNG)
